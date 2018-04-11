@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#FF9800</color>
+    <color name="colorPrimaryDark">#F57C00</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="unclicked">#FF9800</color>
+    <color name="right">#4CAF50</color>
+    <color name="wrong">#F44336</color>
+    <color name="message">#212121</color>
+    <color name="rightAnswer">#2E7D32</color>
+    <color name="wrongAnswer">#DD2C00</color>
+    <color name="background">#FFFdf0</color>
+</resources>
